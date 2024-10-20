@@ -7,7 +7,8 @@ FMS est un réseau social aux allures de MSN qui nous rendrait presque nostaligu
 Back-end : Serveur MAMP, WAMP ou XAMPP (suite PHP / MySQL (ou MariaDB) / Apache)
 Front-end : HTML / CSS
 
-Livrables attendus  
+  Livrables attendus:
+-
 1er niveau : Le réseau social à développer, sous une forme type X ou Facebook, devra afficher les messages de ses utilisateur·ices sur différentes pages du site.
 2ème niveau : 
 - afficher les messages de ses utilisateur·ices sur différentes pages du site
