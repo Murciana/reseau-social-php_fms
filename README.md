@@ -1,6 +1,6 @@
 Bienvenue sur FMS
 -
-Ce proejt a été réalisé en 10 jours dans le cadre de ma formation chez Ada Tech School, avec Fiona et Stéphane. 
+Ce projet a été réalisé en 10 jours dans le cadre de ma formation chez Ada Tech School, avec Fiona et Stéphane. 
 
 FMS est un réseau social aux allures de MSN qui nous rendrait presque nostaligue!
 
